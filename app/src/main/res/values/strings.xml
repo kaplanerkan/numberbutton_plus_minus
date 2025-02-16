@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumberButonKotlin</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="minus">-</string>
+    <string name="couvert_anzahl_eingeben">Couvert Anzahl eingeben</string>
+    <string name="erwachsene">Erwachsene</string>
+    <string name="kinder">Kinder</string>
+</resources>
